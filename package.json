@@ -1,0 +1,38 @@
+
+{
+    "name": "casper-lite",
+    "description": "A modified version of Casper that doesn't require external fonts.",
+    "demo": "https://blog.jloh.co",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "James Loh",
+        "email": "contact@jloh.co",
+        "url": "https://jloh.co"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jloh/casper-lite.git"
+    },
+    "bugs": "https://github.com/jloh/casper-lite/issues",
+    "contributors": "https://github.com/jloh/casper-lite/graphs/contributors"
+}
+

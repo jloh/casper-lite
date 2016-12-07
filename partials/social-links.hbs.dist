@@ -1,0 +1,25 @@
+{{!-- You can add additional sections and use any of the Font Awesome Icons (http://fontawesome.io/icons/) available below! --}}
+
+<h2 class="social-links">
+    <ul class="list-inline">
+{{#if facebook}}
+        <li>
+            <a title="{{@blog.title}} on Facebook" href="{{facebook_url}}">
+                <i class="fa fa-facebook"></li>
+            </a>
+        </li>
+{{/if}}
+{{#if twitter}}
+        <li>
+            <a title="{{@blog.title}} on Twitter" href="{{twitter_url}}">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+{{/if}}
+        <li>
+            <a title="RSS Feed" href="{{@blog.url}}/rss/">
+                <i class="fa fa-rss"></i>
+            </a>
+        </li>
+    </ul>
+</h2>
