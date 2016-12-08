@@ -5,6 +5,8 @@
 
 Casper Lite is a fork of the original Casper theme for Ghost focused on using as many external assets as possible and using system fonts for faster rendering.
 
+![Casper Lite Desktop](assets/screenshot-desktop.jpg "Casper Lite Desktop")
+
 ## Features
 
  * Uses system fonts for faster rendering (No more Google fonts!)
