@@ -4,7 +4,7 @@ Use the below template for each author. Sorry about the if loops :(
 
 
 {{if author.slug 'bob'}}
-<span class="author-github"><i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/bob/" title="{{name}} on GitHub">jloh</a></span>
+<span class="author-github"><i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/bob/" title="{{name}} on GitHub">bob</a></span>
 {{/if}}
 
 --}}
